@@ -1,5 +1,5 @@
 # leetcode
-Leetcode solutions
+Leetcode solutions.   
 Comments are written both English and Korean
 
 Now working on :   
